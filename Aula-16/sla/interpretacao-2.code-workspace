@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../interpretacao-2"
+		},
+		{
+			"path": "../interpretacao-3"
+		},
+		{
+			"path": "../interpretacao-1"
+		},
+		{
+			"path": "../escrita-2"
+		},
+		{
+			"path": "../escrita-3"
+		},
+		{
+			"path": "../escrita-4"
+		},
+		{
+			"path": "../escrita-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "escrita-4"
+	}
+}
